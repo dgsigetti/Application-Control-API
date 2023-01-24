@@ -22,7 +22,9 @@ It's important that we understand a few key phrases about Application Control.
   
   ![image](https://user-images.githubusercontent.com/12953672/214129836-9318e618-38c2-4395-b763-03dc12c46fd9.png)
   
---Workload placeholder
+### Creating an API Key in Cloud One Workload Security
+
+See: https://cloudone.trendmicro.com/docs/workload-security/api-key-create-console/
 
 ### Creating an API request using Postman
 
