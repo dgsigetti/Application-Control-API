@@ -80,7 +80,8 @@ This is what my request looks like:
 
 If you're successful, you should see many lines of JSON with every piece of information available about each computer and agent. 
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/12953672/214173983-50ad11e9-4c53-4020-ad22-6fa0a7bdd058.png">
-If you're unsuccessful, you'll likely get an error. This is usually because of authentication (check for spaces), or an incorrect entry in the URL. 
+If you're unsuccessful, you'll likely get an error. This is usually because of authentication (check for spaces), or an incorrect entry in the URL.
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/12953672/214173470-9c060694-6830-483d-a514-1d77f9fa1ffa.png">
 
 ### Getting Computer IDs
