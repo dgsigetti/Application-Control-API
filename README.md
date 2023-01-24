@@ -69,9 +69,13 @@ With our "Headers" section of the request filled out as outlined above, we're go
 We're going to input a request to return all of the computers in our management console. Keep in mind that your endpoint may be different, but the paths are generally the same.
 
 1. Add the URL into the request and list computers. You can find this path in the API Reference.
+
 ![image](https://user-images.githubusercontent.com/12953672/214172591-5a1b1eb5-b22d-4cc8-bd30-7daff60ca062.png)
+
 This is what my request looks like:
+
 <img width="1270" alt="image" src="https://user-images.githubusercontent.com/12953672/214172806-366c7f05-df81-47b3-ae61-d28303c15ff4.png">
+
 2. Ensure you've selected "Get" to the left of the URL field, and hit Send!
 
 If you're successful, you should see many lines of JSON with every piece of information available about each computer and agent. 
