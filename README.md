@@ -148,6 +148,7 @@ You can also add `softwareinventoryid` and `YOUR-SOFTWARE-INVENTORY-ID` as a Key
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/12953672/214188277-b2f8ab4c-ccf0-4f41-96e7-0b5c5766467e.png">
 
 Congrats! You've made a shared ruleset that you can reference in a policy using application control. Our work using the API can also now be referenced in the GUI.
+
 ![image](https://user-images.githubusercontent.com/12953672/214188836-afe621fb-cfec-4041-aa09-aa4232cbc39c.png)
 
 
