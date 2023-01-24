@@ -1,4 +1,4 @@
-# ApplicationControlAPI
+# Application Control API
 Step-By-Step Guides on how to interact with the Deep Security / Workload Security API
 
 
