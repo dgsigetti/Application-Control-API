@@ -12,7 +12,7 @@ This step-by-step guide will take you through API setup to enabling the ruleset 
 It's important that we understand a few key phrases about Application Control. 
 **Shared Rulesets*** are a list of executables that should be allowed by Application Control. These can be referenced in multiple policies and are best used when trying to standardize application control across a wide swath of machines. 
 **Global Rulesets** are a list of executables that will be Blocked by Application Control. 
-**Software Inventory** is 
+**Software Inventory** is the list of installed applications and executables on a machine.
 
 ### Creating an API Key in Deep Security
   1. Login to the Deep Security Manager
