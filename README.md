@@ -61,7 +61,7 @@ For the purposes of this guide, i'll be using the Workload Security API. The req
 
 ### Getting Computers
 
-Before we create a software inventory and shared ruleset for application control, we need to get the ID of the computer we're going to create the software inventory based off of. Ideally, this will be a machine that will have the applications and files you'd like the approve on the broader range of machines.
+Before we create a software inventory and shared ruleset for application control, we need to get the ID of the computer we're going to create the software inventory based off of. Ideally, this will be a machine that will have the applications and files you'd like to approve on the broader range of machines.
 
 With our "Headers" section of the request filled out as outlined above, we're going to add the URL we'll be calling. The URL itself can be split into three pieces.
 1. **The Endpoint**, for example https://dsm.example.com:4119/api
